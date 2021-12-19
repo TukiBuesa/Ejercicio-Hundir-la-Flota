@@ -15,7 +15,7 @@ Entregable del Bootcamp en Data Science en The Bridge | Digital Talent Accelerat
  
  
  
-### Esquema del juego
+### Archivos
 
 
 
