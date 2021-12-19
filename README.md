@@ -1,7 +1,8 @@
 # Ejercicio Hundir la Flota  :ship: :speedboat: :boat: :anchor:
 Entregable del Bootcamp en Data Science en The Bridge | Digital Talent Accelerator (Madrid, SPAIN)
 
-![battleship](hundir-la-flota-juego-de-mesa.jpg)
+![hundir-la-flota-juego-de-mesa](https://user-images.githubusercontent.com/92160549/146694259-ae5bcb3f-3682-4c3e-bda6-44f65327fc15.jpg)
+
 
 ### Recursos utilizados
 - Lenguaje de porgramación -> Python 3.7.4.
@@ -16,6 +17,8 @@ Entregable del Bootcamp en Data Science en The Bridge | Digital Talent Accelerat
  
  
 ### Archivos
+
+![ficheros_del_juego_hlf_MB](https://user-images.githubusercontent.com/92160549/146694226-f58d4418-e481-46db-b57f-72a2e1e300d1.png)
 
 
 
