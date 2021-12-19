@@ -1,22 +1,25 @@
-# Ejercicio-Hundir-la-Flota  :ship: :speedboat: :boat: :anchor:
+# Ejercicio Hundir la Flota  :ship: :speedboat: :boat: :anchor:
 Entregable del Bootcamp en Data Science en The Bridge | Digital Talent Accelerator (Madrid, SPAIN)
 
 ![battleship](hundir-la-flota-juego-de-mesa.jpg)
 
-## Recursos utilizados
+### Recursos utilizados
 - Lenguaje de porgramación -> Python 3.7.4.
 - Librerias -> Numpy, Random
 - Desarrollo previo en notebook con Visual Studio Code.
 
 
-## Autora del juego
+
+### Autora del juego
  Marta Buesa
  
  
-## Esquema del juego
+ 
+### Esquema del juego
 
 
-## Indicaciones previas y funcionamiento del juego
+
+### Indicaciones previas y funcionamiento del juego
 
 1. Hay dos jugadores: el ususario y la maquina
 2. Juego con 4 tableros. Los **tableros son de 10 filas x 10 columnas** 
