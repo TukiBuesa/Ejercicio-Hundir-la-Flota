@@ -24,7 +24,7 @@ Entregable del Bootcamp en Data Science en The Bridge | Digital Talent Accelerat
 
 ### Indicaciones previas y funcionamiento del juego
 
-1. Hay dos jugadores: el ususario y la maquina
+1. Hay dos jugadores: el usuario y la maquina
 2. Juego con 4 tableros. Los **tableros son de 10 filas x 10 columnas** 
 3. La flota consta de:
     * 4 barcos de 1 posición de eslora
